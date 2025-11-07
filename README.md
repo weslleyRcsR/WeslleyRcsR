@@ -4,7 +4,11 @@ Eu sou Weslley Renato, sou programador Front End, atualmente estou apredendo a c
 
 :star:-HTML
 
-:star:-CSS 
+:star:-CSS
 
+:star:-JavaScript
+
+
+<br>
 <br>
 <br>
