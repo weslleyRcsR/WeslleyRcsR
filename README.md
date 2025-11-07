@@ -1,6 +1,6 @@
 ## Bem vindo 👋
 
-Eu sou Weslley Renato, sou programador Front End, atualmente estou apredendo a criar projetos com:
+Eu sou Weslley Renato, sou programador Front End, atualmente estou aprendendo a criar projetos com:
 
 :star:-HTML
 
